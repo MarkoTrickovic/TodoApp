@@ -1,0 +1,8 @@
+# ignore .git directory
+.git/
+# ignore all node modules
+node_modules/
+# ignore npm package lock file
+/package-lock.json
+# allow package.json (for dependecies)
+/!package.json
